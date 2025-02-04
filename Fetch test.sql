@@ -1,4 +1,4 @@
--- run the below only when loading the datasets for the first time
+-- run the below delete code only when loading the datasets for the first time
 
 -- DELETE FROM products
 -- WHERE "BARCODE" = '4003207' AND "CATEGORY_2" = 'Nuts & Seeds';
