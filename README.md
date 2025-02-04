@@ -1,6 +1,4 @@
-# take_home_assessment_2_3_2025
-
-Please find below the description of each file posted
+# Please find below the description of each file posted
 
 1) Fetch take home assessment Part 1.pdf -> This includes the findings in part 1 of the assessment -> Data quality issues and exploratory analysis
 2) Fetch take home assessment Part 2.pdf -> This includes the SQL queries. As per instructions, I have answered 3 questions - 2 from closed-ended and 1 from open-ended
