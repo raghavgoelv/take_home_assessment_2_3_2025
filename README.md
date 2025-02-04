@@ -4,3 +4,4 @@
 2) Fetch take home assessment Part 2.pdf -> This includes the SQL queries. As per instructions, I have answered 3 questions - 2 from closed-ended and 1 from open-ended
 3) Fetch tome home assessment Part 3.pdf -> This includes an email to the product/business leader
 4) Take home assessment 2_3_2025.ipynb -> This is the jupyter notebook used for exploratory analysis, data cleaning and export to PostgreSQL
+4) Fetch test.sql -> Consists of the SQL queries for the 3 questions answered
